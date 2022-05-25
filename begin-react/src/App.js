@@ -30,7 +30,11 @@ function App() {
   return (
     <div>
       <Hello />
+      <div>
+        <Hello />
+      </div>
     </div>
+    
   );
 }
 
